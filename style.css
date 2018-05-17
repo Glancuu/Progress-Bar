@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.progress-bar {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.progress-bar>div {
+    width: 0;
+    height: 5px;
+    background-color: #a03bdb;
+}
